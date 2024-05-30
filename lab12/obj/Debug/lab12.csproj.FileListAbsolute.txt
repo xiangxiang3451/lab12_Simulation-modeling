@@ -1,0 +1,10 @@
+E:\Desktop\work-space\vs studio\lab12\lab12\obj\Debug\lab12.csproj.AssemblyReference.cache
+E:\Desktop\work-space\vs studio\lab12\lab12\obj\Debug\lab12.Form1.resources
+E:\Desktop\work-space\vs studio\lab12\lab12\obj\Debug\lab12.Properties.Resources.resources
+E:\Desktop\work-space\vs studio\lab12\lab12\obj\Debug\lab12.csproj.GenerateResource.cache
+E:\Desktop\work-space\vs studio\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+E:\Desktop\work-space\vs studio\lab12\lab12\bin\Debug\lab12.exe.config
+E:\Desktop\work-space\vs studio\lab12\lab12\bin\Debug\lab12.exe
+E:\Desktop\work-space\vs studio\lab12\lab12\bin\Debug\lab12.pdb
+E:\Desktop\work-space\vs studio\lab12\lab12\obj\Debug\lab12.exe
+E:\Desktop\work-space\vs studio\lab12\lab12\obj\Debug\lab12.pdb
